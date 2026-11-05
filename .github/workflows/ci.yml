@@ -25,4 +25,3 @@ jobs:
                 echo "inicio"
                 npx html-validate "**/*.html"
                 echo "fin"
-#
